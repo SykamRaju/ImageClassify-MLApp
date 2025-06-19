@@ -1,9 +1,7 @@
-tensorflow
-streamlit
 fastapi
 uvicorn
+tensorflow-cpu==2.13.0
 pillow
-python-multipart
-requests
 gdown
 numpy
+python-multipart
