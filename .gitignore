@@ -1,0 +1,6 @@
+# .gitignore
+app/model/garbage_model.h5
+Garbage classification/
+/app/__pycache__
+/data/Garbage classification dataset
+/myenv
