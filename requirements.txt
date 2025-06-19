@@ -5,3 +5,5 @@ uvicorn
 pillow
 python-multipart
 requests
+gdown
+numpy
