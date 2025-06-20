@@ -34,7 +34,7 @@ A deep learning-powered image classification app that detects types of garbage (
 
 ## 📸 Screenshot
 
-![Streamlit App Screenshot](https://raw.githubusercontent.com/SykamRaju/Garbage-Classifier-UI/main/screenshot.png)
+![Streamlit App Screenshot](https://raw.githubusercontent.com/SykamRaju/ImageClassify-MLApp/refs/heads/main/app/static/screenshot.png)
 
 ---
 
